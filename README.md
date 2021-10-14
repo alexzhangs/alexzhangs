@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Alex. 
+# Hi there 👋  I'm Alex. 
 
 * I am currently working as a full-stack web developer and also a cloud architect in freelancing.
 * I started [my very first personal website](https://web.archive.org/web/20050323232529/http://aiview.com:80/) <sup>[❶](#1)</sup> <sup>[❷](#2)</sup> in 1999, and [my first blog](https://web.archive.org/web/20100325202431/http://www.aiview.com:80/) <sup>[❶](#1)</sup> <sup>[❷](#2)</sup> (powered by Movable Type on dreamhost.com) in 2006, now I'm setting [my new blog](https://alexzhangs.github.io) up with Github Pages.
@@ -11,3 +11,11 @@
 <a name="1">❶</a> The page contains non English characters.<br />
 <a name="2">❷</a> The page is powered by the [Internet Time Machine](https://archive.org).
 
+## 📈 Stats
+
+[![Alex's GitHub stats][github]][github-readme-stats]
+[![Alex's GitHub language stats][lang]][github-readme-stats]
+
+[github]: https://github-readme-stats.vercel.app/api?username=alexzhangs&count_private=true&show_icons=true
+[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhangs&langs_count=10&hide=Gettext%20Catalog&layout=compact
+[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
