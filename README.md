@@ -2,7 +2,7 @@
 
 * I am currently working as a full-stack web developer and also a cloud architect in freelancing.
 * I keep the repositores that I forked in a separate organization [alexforks](https://github.com/alexforks).
-* I speak Chinese, use English during work, and I am learning Japanese now.
+* I speak Mandarin Chinese, use English during work, and I am learning Japanese now.
 
 ## 🛸 Hobbies
 
