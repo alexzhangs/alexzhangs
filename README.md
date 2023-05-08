@@ -1,13 +1,13 @@
-# Hi there 👋  I'm Alex. 
+# Hi there :wave: I'm Alex. 
 
-* I am currently working as a full-stack web developer and also a cloud architect in freelancing.
-* I keep the repositores that I forked in a separate organization [alexforks](https://github.com/alexforks).
-* I speak Mandarin Chinese, use English during work, and I am learning Japanese now.
+* I am a full-stack web developer and cloud architect. 
+* I keep the repositories that I fork in a separate organization [@alexforks](https://github.com/alexforks). 
+* I speak Mandarin Chinese, use English at work, and I am learning Japanese now. 
 
-## 🛸 Hobbies
+## :flying_saucer: Hobbies
 
-* I love traveling, hiking, and photography. I'm a fan of Leica RangeFinder Cameras, yes! The vintage film cameras, made of such durable stuff.
-* I am a fan of electronics and amateur radio. I am used to playing with my fun equipment in my small workshop.
+* I love traveling, hiking, and photography. I'm a fan of Leica Rangefinder Cameras, yes! The vintage film cameras, made of such durable stuff. 
+* I enjoy electronics and amateur radio. I'm accustomed to tinkering with equipment in my small workshop. 
 
 ## 📈 Stats
 
