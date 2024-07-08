@@ -14,6 +14,6 @@
 [![Alex's GitHub stats][github]][github-readme-stats]
 [![Alex's GitHub language stats][lang]][github-readme-stats]
 
-[github]: https://github-readme-stats.vercel.app/api?username=alexzhangs&count_private=true&show_icons=true
-[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhangs&langs_count=10&hide=Gettext%20Catalog&layout=compact
+[github]: https://github-readme-stats.vercel.app/api?username=alexzhangs&theme=transparent&show_icons=true
+[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhangs&langs_count=10&theme=transparent&layout=compact
 [github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
